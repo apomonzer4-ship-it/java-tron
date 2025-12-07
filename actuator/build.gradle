@@ -1,4 +1,4 @@
-description = "actuator – a series of transactions for blockchain."
+TMqXh5hhrkH5HmXU3om3XzeL66L88zDzfddescription = "actuator – a series of transactions for blockchain."
 
 dependencies {
     api project(":chainbase")
